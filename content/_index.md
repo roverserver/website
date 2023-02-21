@@ -5,10 +5,10 @@ page: true
 
 
 <div align="center">
-    <a href="invite/"> 
+    <a href="/invite"> 
       <img src="https://img.shields.io/discord/712004108344885341?color=cc1f2f&label=Discord&logo=Discord&logoColor=cc1f2f&style=for-the-badge" width="30%"/> 
     </a>     
-      <h2>↣ <a href="invite/"> hier geht's zum Discord Server </a>↢ </h2>
+      <h2>↣ <a href="/invite"> hier geht's zum Discord Server </a>↢ </h2>
 </div>
 
 Draußen zusammen etwas unternehmen, das geht, aufgrund der anhaltenden Pandemie, zurzeit leider nur eingeschränkt. Daher muss nun vieles digital und online geschehen. Aber gerade darin birgt sich auch die Chance Menschen kennenzulernen, welche man sonst wahrscheinlich nie getroffen hätte, neue Freunde zu finden und dabei eine Menge Spaß zu haben.  

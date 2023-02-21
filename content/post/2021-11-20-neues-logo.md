@@ -5,6 +5,8 @@ subtitle: Auf jeder Litfaßkluft ist noch ein bisschen platz
 thumbnail: /img/Roverserverlogo_alt_neu_vergleich.png
 tags: [logo, merch, update]
 date: 2021-11-20
+aliases:
+    - /2021-11-20-neues-logo
 ---
 
 letzte Woche Samstag haben wir unser überarbeitetes Logo offiziell gelauncht. 🦈

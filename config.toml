@@ -85,6 +85,10 @@ pygmentsCodefencesGuessSyntax = true
     [markup.goldmark.renderer]
       unsafe = true
 
+[permalinks]
+  post = ':slug'
+
+
 # [[menu.main]]
 #     name = "Tags"
 #     url = "tags"
