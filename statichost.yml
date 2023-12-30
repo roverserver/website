@@ -1,0 +1,5 @@
+domains:
+  # Primary domain
+  - discord.rover.de
+  # Domains that redirect to the primary
+  - www.discord.rover.de
