@@ -3,3 +3,4 @@ domains:
   - discord.rover.de
   # Domains that redirect to the primary
   - www.discord.rover.de
+  - roverserver.eu.org
