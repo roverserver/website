@@ -1,4 +1,4 @@
-baseurl = "https://roverserver.eu.org"
+baseurl = "https://discord.rover.de"
 DefaultContentLanguage = "de"
 title = "Der Roverserver"
 theme = "beautifulhugo"
